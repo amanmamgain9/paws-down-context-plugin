@@ -1,0 +1,9 @@
+{
+  "name": "paws-down",
+  "version": "0.1.0",
+  "description": "Integrate and consume the APIMatic-generated Paws Down API SDK — bundled skills for TypeScript.",
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Paws Down"
+  }
+}
